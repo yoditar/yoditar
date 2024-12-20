@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoditar
 - 👀 I’m interested in blockchain, crypto and privacy
-- 🌱 I’m currently working as Zcash Ambassador, blogger and crypto community builder
+- 🌱 I’m currently working as blogger and crypto community builder
 - 💞️ I’m looking to collaborate on blockchain and crypto projects
 - 📫 How to reach me: yoditar@pm.me
 
